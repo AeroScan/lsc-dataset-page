@@ -17,7 +17,7 @@ h1, h2 {
     text-indent: 2rem;
 }
 
-p {
+p, span {
     text-indent: 3rem;
     margin-bottom: 1.5rem;
 }
